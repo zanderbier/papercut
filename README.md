@@ -7,6 +7,8 @@ This is a project of a paper cut machine with Arduino board [1].
 
 The software will be a modified version of GRBL [2] and the hardware an implementation of the CoreXY mechanics [3].
 
+This is a work in progress project!
+
 References 
 ==========
 [1] http://arduino.cc/  
