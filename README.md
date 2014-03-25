@@ -12,6 +12,12 @@ The software will be a modified version of GRBL [2] and the hardware an implemen
 
 This is a work in progress project!
 
+GRBL Patches
+============
+
+For v0.8c: https://github.com/zanderbier/grbl/compare/grbl:master...master
+For dev V0.9 without homing support: https://github.com/zanderbier/grbl/compare/dev
+
 References 
 ==========
 [1] http://arduino.cc/  
