@@ -12,6 +12,13 @@ The software will be a modified version of GRBL [2] and the hardware an implemen
 
 This is a work in progress project!
 
+versions
+========
+
+XY - Frame without a Z axis, will have a solenoid to hold the blade.
+
+Z - Frame with a Z axis that could be used as a 3D printer.
+
 GRBL Patches
 ============
 
